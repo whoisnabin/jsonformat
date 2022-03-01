@@ -1,0 +1,45 @@
+[{
+    "id":1,
+    "product_name":"vodka",
+    "volume":"1000ml",
+    "price":1500
+},
+{
+    "id":2,
+    "product_name":"apple",
+    "volume":"1000ml",
+    "price":800
+},
+{
+    "id":3,
+    "product_name":"khukuri",
+    "volume":"250ml",
+    "price":200
+},
+{
+    "id":4,
+    "product_name":"vodka 8848",
+    "volume":"750ml",
+    "price":800
+},
+{
+    "id":5,
+    "product_name":"vodka",
+    "volume":"1000ml",
+    "price":1500
+},
+{
+    "id":6,
+    "product_name":"local",
+    "volume":"1000ml",
+    "price":500
+},
+
+{
+    "id":7,
+    "product_name":"red level",
+    "volume":"150ml",
+    "price":2000
+}
+
+]
